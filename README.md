@@ -1,6 +1,4 @@
-### Hi there, I'm Gajendra Singh Rathore
-<br/>
-
+## Hi there, I'm Gajendra Singh Rathore
 ### I'm a Developer, Designer and full time learner!
 
 - 🔭 I’m currently working on a Gaining skills
