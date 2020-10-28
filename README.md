@@ -52,11 +52,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [View Binding](https://gsrathoreniks.medium.com/view-binding-android-fb1dddeafdd6)
+- [Understanding Android Application Class](https://gsrathoreniks.medium.com/understanding-android-application-class-22c7ea6d18c0)
 - [Using Lottie Animations in Android](https://medium.com/@gsrathoreniks/lottie-animations-in-android-d000421986af)
 - [Android App Bundle](https://medium.com/hackernoon/android-app-bundle-cba5e4bb3ff1)
-<!-- 
-➡️ [more blog posts...](https://codestackr.com)
--->
+➡️ [more blog posts...](https://gsrathoreniks.medium.com)
 ---
 
 <details>
