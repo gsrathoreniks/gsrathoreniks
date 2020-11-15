@@ -1,6 +1,5 @@
-## Hey,
-# I'm Gajendra Singh Rathore
-### 💻Developer & 🎨Designer
+# Hey, I'm Gajendra Singh Rathore
+## 💻Developer & 🎨Designer
 
 - 🔭 Currenty working on Jetpact and Data Binding
 - 💡 Got an app idea ? Let's collaborate and build.
