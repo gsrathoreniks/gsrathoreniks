@@ -1,10 +1,11 @@
-## Hi there, I'm Gajendra Singh Rathore
-### I'm a Developer, Designer and full time learner!
+## Hey,
+# I'm Gajendra Singh Rathore
+### 💻Developer & 🎨Designer
 
-- 🔭 I’m currently working on a Gaining skills
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Currenty working on Jetpact and Data Binding
+- 💡 Got an app idea ? Let's collaborate and build.
 - 👯 I’m looking to collaborate with other Developers & content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects, write some good articles and some videos maybe
+- 🥅 2020 Goals: Contribute more to Open Source projects, write some good articles and some videos maybe ;)
 
 <br/>
 
@@ -59,12 +60,7 @@
 - ➡️ [more blog posts...](https://gsrathoreniks.medium.com)
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gsrathoreniks&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gsrathoreniks&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/gsrathoreniks
 [youtube]: https://www.youtube.com/channel/UCzDpDEEHXworG43gVNLX-AA
