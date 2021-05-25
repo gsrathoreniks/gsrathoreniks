@@ -59,8 +59,6 @@
 - ➡️ [more blog posts...](https://gsrathoreniks.medium.com)
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gsrathoreniks&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/gsrathoreniks
 [youtube]: https://www.youtube.com/channel/UCzDpDEEHXworG43gVNLX-AA
 [instagram]: https://instagram.com/niks.uiux
