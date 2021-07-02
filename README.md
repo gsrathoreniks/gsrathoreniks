@@ -1,5 +1,5 @@
 # Hey, I'm Gajendra Singh Rathore
-## 💻Developer & 🎨Designer
+#### I build Android apps and write articles!
 
 - 💡 Writer at : [@Medium](https://gsrathoreniks.medium.com)
 
