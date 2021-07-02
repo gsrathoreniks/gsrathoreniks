@@ -1,10 +1,7 @@
 # Hey, I'm Gajendra Singh Rathore
 ## 💻Developer & 🎨Designer
 
-- 🔭 Currenty working on Jetpact and Data Binding
-- 💡 Got an app idea ? Let's collaborate and build.
-- 👯 I’m looking to collaborate with other Developers & content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects, write some good articles and some videos maybe ;)
+- 💡 Writer at : [@Medium](https://gsrathoreniks.medium.com)
 
 <br/>
 
@@ -52,6 +49,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Multi-lingual Apps](https://gsrathoreniks.medium.com/building-a-multi-lingual-app-a53207778a4f)
 - [View Binding](https://gsrathoreniks.medium.com/view-binding-android-fb1dddeafdd6)
 - [Understanding Android Application Class](https://gsrathoreniks.medium.com/understanding-android-application-class-22c7ea6d18c0)
 - [Using Lottie Animations in Android](https://medium.com/@gsrathoreniks/lottie-animations-in-android-d000421986af)
@@ -59,6 +57,7 @@
 - ➡️ [more blog posts...](https://gsrathoreniks.medium.com)
 ---
 
+[medium]: https://gsrathoreniks.medium.com
 [twitter]: https://twitter.com/gsrathoreniks
 [youtube]: https://www.youtube.com/channel/UCzDpDEEHXworG43gVNLX-AA
 [instagram]: https://instagram.com/niks.uiux
