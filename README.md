@@ -1,4 +1,7 @@
 # Hey, I'm Gajendra Singh Rathore
+
+<br/>
+
 ## About me
 
 - 📱 Android Engineeer
@@ -6,7 +9,6 @@
 - ✍️ Write stuff on [Medium](https://medium.com/@gsrathoreniks).
 - 🎮 Loves reading books and articles.
 
-<br />
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/gsrathoreniks)  
