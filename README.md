@@ -1,8 +1,12 @@
 # Hey, I'm Gajendra Singh Rathore
-#### I build Android apps and write articles!
+## About me
 
-- 💡 Writer at : [@Medium](https://gsrathoreniks.medium.com)
+- 📱 Android Engineeer
+- 👨‍💻 Mostly working on Android, Kotlin!
+- ✍️ Write stuff on [Medium](https://medium.com/@gsrathoreniks).
+- 🎮 Loves reading books and articles.
 
+<br />
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/gsrathoreniks)  
@@ -54,7 +58,7 @@
 - [Understanding Android Application Class](https://gsrathoreniks.medium.com/understanding-android-application-class-22c7ea6d18c0)
 - [Using Lottie Animations in Android](https://medium.com/@gsrathoreniks/lottie-animations-in-android-d000421986af)
 - [Android App Bundle](https://medium.com/hackernoon/android-app-bundle-cba5e4bb3ff1)
-- ➡️ [more blog posts...](https://gsrathoreniks.medium.com)
+- ➡️ [Read more here...](https://gsrathoreniks.medium.com)
 ---
 
 [medium]: https://gsrathoreniks.medium.com
