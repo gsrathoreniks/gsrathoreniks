@@ -6,7 +6,7 @@
 
 - 📱 Android Engineeer
 - 👨‍💻 Mostly working on Android, Kotlin!
-- ✍️ Write stuff on [Medium](https://medium.com/@gsrathoreniks).
+- ✍️ Write stuff on [Medium](https://medium.com/@gsrathoreniks) & [Hashnode](https://hashnode.com/@gsrathoreniks)
 - 🎮 Loves reading books and articles.
 
 <br/>
