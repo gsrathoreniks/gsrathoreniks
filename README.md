@@ -38,9 +38,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsrathoreniks&theme=buefy&layout=compact)
-
-
 <!-- ### 📺 Latest YouTube Videos
 - [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
 - [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
@@ -55,12 +52,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Background work in Android](https://codewithniks.hashnode.dev/background-work-in-android)
 - [Building Multi-lingual Apps](https://gsrathoreniks.medium.com/building-a-multi-lingual-app-a53207778a4f)
 - [View Binding](https://gsrathoreniks.medium.com/view-binding-android-fb1dddeafdd6)
 - [Understanding Android Application Class](https://gsrathoreniks.medium.com/understanding-android-application-class-22c7ea6d18c0)
 - [Using Lottie Animations in Android](https://medium.com/@gsrathoreniks/lottie-animations-in-android-d000421986af)
 - [Android App Bundle](https://medium.com/hackernoon/android-app-bundle-cba5e4bb3ff1)
-- ➡️ [Read more here...](https://gsrathoreniks.medium.com)
+- ➡️ [Read more on Medium --> ](https://gsrathoreniks.medium.com)
+- ➡️ [Read more on Hashnode --> ](https://codewithniks.hashnode.dev)
 ---
 
 [medium]: https://gsrathoreniks.medium.com
