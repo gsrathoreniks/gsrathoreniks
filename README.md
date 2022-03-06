@@ -1,9 +1,5 @@
 # Hey, I'm Gajendra Singh Rathore
 
-<br/>
-
-## About me
-
 - 📱 Android Engineeer
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@gsrathoreniks) & [Hashnode](https://hashnode.com/@gsrathoreniks)
