@@ -46,6 +46,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- ✨[Launch modes in Android](https://gsrathoreniks.medium.com/launchmodes-in-android-17df36f8b33b) 🆕 ⭐ 
 - [Background work in Android](https://codewithniks.hashnode.dev/background-work-in-android)
 - [Building Multi-lingual Apps](https://gsrathoreniks.medium.com/building-a-multi-lingual-app-a53207778a4f)
 - [View Binding](https://gsrathoreniks.medium.com/view-binding-android-fb1dddeafdd6)
