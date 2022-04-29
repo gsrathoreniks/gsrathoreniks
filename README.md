@@ -1,7 +1,7 @@
 # Hey, I'm Gajendra Singh Rathore
 
 - 📱 Android Engineeer
-- 👨‍💻 Mostly working on Android, Kotlin!
+- 👨‍💻 Mostly working on Android, Kotlin & Jetpack Compose!
 - ✍️ Write stuff on [Medium](https://medium.com/@gsrathoreniks) & [Hashnode](https://hashnode.com/@gsrathoreniks)
 - 🎮 Loves reading books and articles.
 
