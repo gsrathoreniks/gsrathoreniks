@@ -7,8 +7,6 @@
 
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/gsrathoreniks)  
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gsrathoreniks&theme=dark)](https://git.io/streak-stats)
 
 <!-- ### Connect with me:
